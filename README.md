@@ -5,7 +5,7 @@ This is a project template for [Svelte](https://svelte.dev) apps. It was forked 
 To create a new project based on this template using [degit](https://github.com/Rich-Harris/degit):
 
 ```bash
-npx degit sveltejs/template svelte-app
+npx degit higsch/svelte-template svelte-app
 cd svelte-app
 ```
 
